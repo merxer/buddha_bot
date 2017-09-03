@@ -1,2 +1,2 @@
 # buddha_bot
-Chatbot for Buddha taught
+Chatbot for Buddha 's dhamma
